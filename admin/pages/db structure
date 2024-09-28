@@ -1,0 +1,31 @@
+District
+    id
+    name_uz
+    name_ru
+    name_en
+    type
+
+
+Travel
+    id
+    name_uz
+    name_ru
+    name_en
+    description_uz
+    description_ru
+    description_en
+    date
+    price
+    count
+    logo
+    gallery
+    districts
+
+
+Payment
+    id
+    travel_id
+    phone
+    full_name
+    card_number
+    count
